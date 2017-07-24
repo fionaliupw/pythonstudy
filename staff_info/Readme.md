@@ -20,6 +20,7 @@ delete from staff_table where staff_id = 1
 (6)输入exit退出程序，并打印最新的表数据。
 
 2、代码文件：staff_info.py
+
 3、数据文件：staff_table,保存员工信息。
 初始信息如下：
 0,Mike,25,13900000001,FMD,2016-08-01

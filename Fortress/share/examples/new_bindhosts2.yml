@@ -1,0 +1,9 @@
+bind1:
+  hostname: groupstudy1
+  remote_users:
+    - user3:
+      username: Fiona
+      auth_type:  ssh-passwd
+      password: Qwer7685!
+  groups:
+    - test group

@@ -1,0 +1,7 @@
+groupstudy1:
+  ip_addr: 192.168.87.129
+  port: 22
+
+groupstudy2:
+  ip_addr: 192.168.87.144
+  port: 22

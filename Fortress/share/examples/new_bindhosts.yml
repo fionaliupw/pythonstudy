@@ -1,0 +1,29 @@
+bind1:
+  hostname: groupstudy1
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-key
+      #password: 123
+    - user3:
+      username: Fiona
+      auth_type: ssh-passwd
+      password: Qwer7685!
+  groups:
+    - bj_group
+  user_profiles:
+    - Fiona
+
+bind2:
+  hostname: groupstudy2
+  remote_users:
+    - user1:
+      username: Fiona
+      auth_type: ssh-passwd
+      password: Qwer7685!
+  groups:
+    - bj_group
+    - sh_group
+
+  user_profiles:
+    - Ana

@@ -1,0 +1,8 @@
+web_devteam:
+  bind_hosts:
+    - groupstudy1
+    - groupstudy2
+  user_profiles:
+    - Fiona
+    - Mick
+    - Ana

@@ -1,0 +1,19 @@
+user0:
+  auth_type:  ssh-passwd
+  username: root
+  password: clic!325
+
+user1:
+  auth_type:  ssh-passwd
+  username: root
+  password: Fiona%9une
+
+user2:
+  auth_type:  ssh-key
+  username: root
+  #password: abc!23
+
+user3:
+  auth_type:  ssh-passwd
+  username: Fiona
+  password: Qwer7685!
